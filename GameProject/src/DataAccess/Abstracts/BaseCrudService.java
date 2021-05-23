@@ -1,4 +1,4 @@
-package Business.Abstracts;
+package DataAccess.Abstracts;
 
 import Entities.Concretes.Gamer;
 

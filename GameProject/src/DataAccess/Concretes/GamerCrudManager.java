@@ -1,6 +1,6 @@
-package Business.Concretes;
+package DataAccess.Concretes;
 
-import Business.Abstracts.BaseCrudService;
+import DataAccess.Abstracts.BaseCrudService;
 import Core.MernisCheckPersonAdapter;
 import Entities.Concretes.Gamer;
 

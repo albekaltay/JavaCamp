@@ -1,9 +1,9 @@
 package GameProject;
 
-import Business.Abstracts.BaseCrudService;
+import DataAccess.Abstracts.BaseCrudService;
 import Business.Abstracts.GameSalesService;
-import Business.Concretes.GameSalesManager;
-import Business.Concretes.GamerCrudManager;
+import DataAccess.Concretes.GameSalesManager;
+import DataAccess.Concretes.GamerCrudManager;
 import Core.MernisCheckPersonAdapter;
 import Entities.Concretes.Campaign;
 import Entities.Concretes.Game;

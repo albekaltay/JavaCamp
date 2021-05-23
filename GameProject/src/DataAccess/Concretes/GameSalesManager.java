@@ -1,6 +1,5 @@
-package Business.Concretes;
+package DataAccess.Concretes;
 
-import Business.Abstracts.BaseCrudService;
 import Business.Abstracts.GameSalesService;
 import Core.CheckPersonService;
 import Entities.Concretes.Campaign;

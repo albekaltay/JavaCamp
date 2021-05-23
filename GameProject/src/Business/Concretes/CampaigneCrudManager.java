@@ -1,6 +1,6 @@
 package Business.Concretes;
 
-import Business.Abstracts.BaseCrudService;
+import DataAccess.Abstracts.BaseCrudService;
 import Entities.Concretes.Campaign;
 
 public class CampaigneCrudManager implements BaseCrudService<Campaign> {

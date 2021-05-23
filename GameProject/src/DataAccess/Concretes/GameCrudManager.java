@@ -1,6 +1,6 @@
-package Business.Concretes;
+package DataAccess.Concretes;
 
-import Business.Abstracts.BaseCrudService;
+import DataAccess.Abstracts.BaseCrudService;
 import Entities.Concretes.Game;
 
 public class GameCrudManager implements BaseCrudService<Game> {

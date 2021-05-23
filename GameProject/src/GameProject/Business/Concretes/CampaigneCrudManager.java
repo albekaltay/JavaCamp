@@ -1,7 +1,7 @@
-package Business.Concretes;
+package GameProject.Business.Concretes;
 
-import DataAccess.Abstracts.BaseCrudService;
-import Entities.Concretes.Campaign;
+import GameProject.DataAccess.Abstracts.BaseCrudService;
+import GameProject.Entities.Concretes.Campaign;
 
 public class CampaigneCrudManager implements BaseCrudService<Campaign> {
     @Override

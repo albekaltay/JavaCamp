@@ -1,6 +1,4 @@
-package DataAccess.Abstracts;
-
-import Entities.Concretes.Gamer;
+package GameProject.DataAccess.Abstracts;
 
 public interface BaseCrudService<T> {
 

@@ -1,7 +1,7 @@
-package DataAccess.Concretes;
+package GameProject.DataAccess.Concretes;
 
-import DataAccess.Abstracts.BaseCrudService;
-import Entities.Concretes.Game;
+import GameProject.DataAccess.Abstracts.BaseCrudService;
+import GameProject.Entities.Concretes.Game;
 
 public class GameCrudManager implements BaseCrudService<Game> {
     @Override

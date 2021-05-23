@@ -1,6 +1,6 @@
-package Entities.Concretes;
+package GameProject.Entities.Concretes;
 
-import Entities.Abstracts.Entity;
+import GameProject.Entities.Abstracts.Entity;
 
 public class Gamer implements Entity {
     private int id;

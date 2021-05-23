@@ -1,10 +1,10 @@
-package DataAccess.Concretes;
+package GameProject.DataAccess.Concretes;
 
-import Business.Abstracts.GameSalesService;
-import Core.CheckPersonService;
-import Entities.Concretes.Campaign;
-import Entities.Concretes.Game;
-import Entities.Concretes.Gamer;
+import GameProject.Business.Abstracts.GameSalesService;
+import GameProject.Core.CheckPersonService;
+import GameProject.Entities.Concretes.Campaign;
+import GameProject.Entities.Concretes.Game;
+import GameProject.Entities.Concretes.Gamer;
 
 public class GameSalesManager implements GameSalesService {
 

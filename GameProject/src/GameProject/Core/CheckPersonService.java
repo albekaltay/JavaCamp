@@ -1,6 +1,6 @@
-package Core;
+package GameProject.Core;
 
-import Entities.Concretes.Gamer;
+import GameProject.Entities.Concretes.Gamer;
 
 public interface CheckPersonService {
     boolean isPersonReal(Gamer gamer) throws Exception;

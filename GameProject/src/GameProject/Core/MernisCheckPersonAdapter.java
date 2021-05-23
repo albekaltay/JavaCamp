@@ -1,6 +1,6 @@
-package Core;
+package GameProject.Core;
 
-import Entities.Concretes.Gamer;
+import GameProject.Entities.Concretes.Gamer;
 import MernisServiceReferance.VVLKPSPublicSoap;
 
 

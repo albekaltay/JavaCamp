@@ -1,8 +1,8 @@
-package DataAccess.Concretes;
+package GameProject.DataAccess.Concretes;
 
-import DataAccess.Abstracts.BaseCrudService;
-import Core.MernisCheckPersonAdapter;
-import Entities.Concretes.Gamer;
+import GameProject.DataAccess.Abstracts.BaseCrudService;
+import GameProject.Core.MernisCheckPersonAdapter;
+import GameProject.Entities.Concretes.Gamer;
 
 public class GamerCrudManager implements BaseCrudService<Gamer> {
 

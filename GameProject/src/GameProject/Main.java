@@ -1,13 +1,13 @@
 package GameProject;
 
-import DataAccess.Abstracts.BaseCrudService;
-import Business.Abstracts.GameSalesService;
-import DataAccess.Concretes.GameSalesManager;
-import DataAccess.Concretes.GamerCrudManager;
-import Core.MernisCheckPersonAdapter;
-import Entities.Concretes.Campaign;
-import Entities.Concretes.Game;
-import Entities.Concretes.Gamer;
+import GameProject.DataAccess.Abstracts.BaseCrudService;
+import GameProject.Business.Abstracts.GameSalesService;
+import GameProject.DataAccess.Concretes.GameSalesManager;
+import GameProject.DataAccess.Concretes.GamerCrudManager;
+import GameProject.Core.MernisCheckPersonAdapter;
+import GameProject.Entities.Concretes.Campaign;
+import GameProject.Entities.Concretes.Game;
+import GameProject.Entities.Concretes.Gamer;
 
 public class Main {
 

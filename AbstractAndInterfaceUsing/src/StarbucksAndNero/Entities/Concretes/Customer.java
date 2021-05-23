@@ -1,6 +1,6 @@
-package Entities.Concretes;
+package StarbucksAndNero.Entities.Concretes;
 
-import Entities.Abstracts.Entity;
+import StarbucksAndNero.Entities.Abstracts.Entity;
 
 public class Customer implements Entity {
 

@@ -1,10 +1,8 @@
-package Adapter;
+package StarbucksAndNero.Adapter;
 
 import MernisServiceReferane.WFEKPSPublicSoap;
-import Business.Abstracts.CustomerCheckService;
-import Entities.Concretes.Customer;
-
-import java.util.Locale;
+import StarbucksAndNero.Business.Abstracts.CustomerCheckService;
+import StarbucksAndNero.Entities.Concretes.Customer;
 
 public class MernisServiceAdapter implements CustomerCheckService {
     @Override

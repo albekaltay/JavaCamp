@@ -1,8 +1,7 @@
-package Business.Concretes;
+package StarbucksAndNero.Business.Concretes;
 
-import MernisServiceReferane.WFEKPSPublicSoap;
-import Business.Abstracts.CustomerCheckService;
-import Entities.Concretes.Customer;
+import StarbucksAndNero.Business.Abstracts.CustomerCheckService;
+import StarbucksAndNero.Entities.Concretes.Customer;
 
 public class CustomerCheckManager implements CustomerCheckService {
 

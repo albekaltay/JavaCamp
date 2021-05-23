@@ -1,13 +1,10 @@
 package StarbucksAndNero;
 
-import Adapter.MernisServiceAdapter;
-import Business.Concretes.BaseCustomerManager;
-import Business.Concretes.CustomerCheckManager;
-import Business.Concretes.NeroCustomerManager;
-import Business.Concretes.StarbuckCustomerManager;
-import Entities.Concretes.Customer;
-
-import java.util.Date;
+import StarbucksAndNero.Adapter.MernisServiceAdapter;
+import StarbucksAndNero.Business.Concretes.BaseCustomerManager;
+import StarbucksAndNero.Business.Concretes.NeroCustomerManager;
+import StarbucksAndNero.Business.Concretes.StarbuckCustomerManager;
+import StarbucksAndNero.Entities.Concretes.Customer;
 
 public class Main {
 

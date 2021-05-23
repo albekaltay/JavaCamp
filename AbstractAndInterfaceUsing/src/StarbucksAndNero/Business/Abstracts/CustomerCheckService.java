@@ -1,6 +1,6 @@
-package Business.Abstracts;
+package StarbucksAndNero.Business.Abstracts;
 
-import Entities.Concretes.Customer;
+import StarbucksAndNero.Entities.Concretes.Customer;
 
 public interface CustomerCheckService {
      boolean checkIfRealPerson(Customer customer) throws Exception;

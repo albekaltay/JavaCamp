@@ -1,7 +1,7 @@
-package Business.Concretes;
+package StarbucksAndNero.Business.Concretes;
 
-import Business.Abstracts.CustomerService;
-import Entities.Concretes.Customer;
+import StarbucksAndNero.Business.Abstracts.CustomerService;
+import StarbucksAndNero.Entities.Concretes.Customer;
 
 public abstract class BaseCustomerManager implements CustomerService {
     @Override
